@@ -9,14 +9,11 @@ I specialize in video editing, AI-assisted video production, animation, motion g
 ## Selected Projects
 
 ### 1. AI Video Production
-AI-assisted animated videos, visual storytelling and creative production.
+[![Video 1 - AI Video Production](https://img.youtube.com/vi/RcBSn_DdGOU/hqdefault.jpg)](https://www.youtube.com/watch?v=RcBSn_DdGOU)
 
-(https://img.youtube.com/vi/RcBSn_DdGOU/hqdefault.jpg)](https://www.youtube.com/watch?v=RcBSn_DdGOU)
+[![Video 2 - AI Video Production](https://img.youtube.com/vi/BYKCyfeFJt8/hqdefault.jpg)](https://www.youtube.com/watch?v=BYKCyfeFJt8)
 
-(https://img.youtube.com/vi/BYKcyfeFJt8/hqdefault.jpg)](https://www.youtube.com/watch?v=BYKcyfeFJt8)
-
-(https://img.youtube.com/vi/AW3rD-8HE2I/hqdefault.jpg)](https://www.youtube.com/watch?v=AW3rD-8HE2I)
-
+[![Video 3 - AI Video Production](https://img.youtube.com/vi/AW3rD-8HE2I/hqdefault.jpg)](https://www.youtube.com/watch?v=AW3rD-8HE2I)
 
 
 ## Skills & Tools
