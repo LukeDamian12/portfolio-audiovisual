@@ -15,6 +15,7 @@ I specialize in video editing, AI-assisted video production, animation, motion g
 
 [![Video 3 - AI Video Production](https://img.youtube.com/vi/AW3rD-8HE2I/hqdefault.jpg)](https://www.youtube.com/watch?v=AW3rD-8HE2I)
 
+[![Video 4 - AI Video Production](https://img.youtube.com/vi/go0Z4mCkhJQ/hqdefault.jpg)](https://www.youtube.com/watch?v=go0Z4mCkhJQ)
 
 ## Skills & Tools
 
